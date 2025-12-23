@@ -6,7 +6,7 @@ A modern, responsive landing page for **Sammunat LLC**, built with **React**, **
 
 ## Demo
 
-You can view a live preview of the landing page by running the development server (see **Getting Started**) and opening `http://localhost:5173` in your browser. The page should display the following sections:
+You can view a live preview of the landing page by running the development server (see **Getting Started**) and opening `http://localhost:PORT` in your browser. The page should display the following sections:
 
 - **Navbar** with logo and navigation links
 - **Hero** with headline, sub‑headline, and CTA buttons
@@ -51,8 +51,8 @@ You can view a live preview of the landing page by running the development serve
 
 ```bash
 # Clone the repository (or copy the folder if you already have it)
-git clone <repository-url> sammunat-app-c
-cd sammunat-app-c
+git clone https://github.com/dev-rahul-arya/INTERN-summanat.git sammunat-app-clone
+cd sammunat-app-clone
 
 # Install dependencies
 npm install
@@ -66,7 +66,7 @@ Start the development server with hot‑module replacement:
 npm run dev
 ```
 
-Open your browser at `http://localhost:5173` to see the landing page. The server will automatically reload when you edit source files.
+Open your browser at `http://localhost:PORT` to see the landing page. The server will automatically reload when you edit source files.
 
 ### Build for Production
 
