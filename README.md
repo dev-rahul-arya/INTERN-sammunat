@@ -2,7 +2,7 @@
 
 A modern, responsive landing page for **Sammunat LLC**, built with **React**, **Vite**, and **Tailwind CSS**. The design showcases a clean dark‑mode aesthetic, glass‑morphism effects, and smooth animations while presenting the company's services, portfolio, and contact information.
 
-![SAMMUNAT Landing Page Banner](https://placehold.co/1200x600/1e1e2e/7f5af0?text=SAMMUNAT+TEMP)
+![SAMMUNAT Landing Page Banner](https://raw.githubusercontent.com/dev-rahul-arya/INTERN-sammunat/refs/heads/main/cover.png)
 
 You can view a live preview of the landing page by running the development server (see **Getting Started**) and opening `http://localhost:PORT` in your browser. The page should display the following sections:
 
